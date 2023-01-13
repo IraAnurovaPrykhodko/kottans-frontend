@@ -23,6 +23,7 @@
 
 ## Intro to HTML and CSS
 [Тут скрін завершених уроків Coursera](./task_html_css_intro/coursera-progress.png)
+
 [Тут скрін завершених уроків Codecademy](./task_html_css_intro/CodeAcademy/)
 
 З HTML та CSS я вже була знайома і робила сайти, тож нового майже не було. Єдине,  що я якось пропустила і не знала:
